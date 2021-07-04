@@ -3,6 +3,9 @@
 <h1>DatatableTon</h1>
 💯 datatable exercises
 
+<br>
+<br>
+
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?logo=apache)](https://github.com/vopani/datatableton/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/vopani)](https://twitter.com/vopani)
 
