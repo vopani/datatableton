@@ -16,8 +16,6 @@ To provide 100 datatable exercises over different sections structured as a cours
 
 ## Datatable 
 
-![](https://cdn-images-1.medium.com/max/800/0*w7dsjAY9CKNY7owL.png)
-
 Python's [datatable](https://github.com/h2oai/datatable) package is a library for efficient data processing. It is synonymous with R's [data.table](https://github.com/Rdatatable/data.table) library and can be used for various kinds of data processing, feature engineering and modeling tasks as part of data science pipelines. It specifically shines when handling large dataframes and managing  out-of-memory datasets. This toolkit resembles [pandas](https://pandas.pydata.org/) very closely but is more focused on speed and multi-threaded data processing operations.
 
 ## Exercises 📖
