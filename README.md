@@ -14,19 +14,8 @@
 ## Mission 🚀
 To provide 100 datatable exercises over different sections structured as a course or tutorials to teach and learn for beginners, intermediates as well as experts.
 
-## Datatable <img src="https://datatable.readthedocs.io/en/v1.0.0/_static/datatable_small_logo.svg" alt="datatable logo" />
-.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
-}
+## Datatable <img src="https://datatable.readthedocs.io/en/v1.0.0/_static/datatable_small_logo.svg" alt="datatable logo" height=10px width=10px/>
 
-.header h1 {
-  position: relative;
-  top: 18px;
-  left: 10px;
-}
 Python's [datatable](https://github.com/h2oai/datatable) package is a library for efficient data processing. It is synonymous with R's [data.table](https://github.com/Rdatatable/data.table) library and can be used for various kinds of data processing, feature engineering and modeling tasks as part of data science pipelines. It specifically shines when handling large dataframes and managing  out-of-memory datasets. This toolkit resembles [pandas](https://pandas.pydata.org/) very closely but is more focused on speed and multi-threaded data processing operations.
 
 ## Exercises 📖
