@@ -7,6 +7,7 @@
 <br>
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?logo=apache)](https://github.com/vopani/datatableton/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/stars/vopani/datatableton?color=yellowgreen&logo=github)](https://img.shields.io/github/stars/vopani/datatableton?color=yellowgreen&logo=github)
 [![Twitter](https://img.shields.io/twitter/follow/vopani)](https://twitter.com/vopani)
 
 </div>
@@ -14,7 +15,7 @@
 ## Mission 🚀
 To provide 100 datatable exercises over different sections structured as a course or tutorials to teach and learn for beginners, intermediates as well as experts.
 
-<h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="21px"></img></h2>
+<h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="22px"></img></h2>
 
 Python's [datatable](https://github.com/h2oai/datatable) package is a library for efficient data processing. It is synonymous with R's [data.table](https://github.com/Rdatatable/data.table) library and can be used for various kinds of data processing, feature engineering and modeling tasks as part of data science pipelines.
 
