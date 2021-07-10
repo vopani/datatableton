@@ -17,15 +17,15 @@ To provide 100 datatable exercises over different sections structured as a cours
 
 <h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="22px"></img></h2>
 
-Python's [datatable](https://github.com/h2oai/datatable) package is a library for efficient data processing. It is synonymous with R's [data.table](https://github.com/Rdatatable/data.table) library and can be used for various kinds of data processing, feature engineering and modeling tasks as part of data science pipelines.
+The [datatable](https://github.com/h2oai/datatable) package in Python is a library for efficient data processing and feature engineering of tabular data. It is synonymous with R's [data.table](https://github.com/Rdatatable/data.table) library and heavily inspired by it.
 
-It closely resembles [pandas](https://pandas.pydata.org) but is more focused on speed and multi-threaded data processing operations being particularly useful on large datasets.
+It closely resembles [pandas](https://pandas.pydata.org) but is more focused on speed and multi-threaded data operations being particularly useful on large datasets.
 
 ## Exercises 📖
-There are a total of 100 datatable exercises divided into 10 sets of 10 exercises each.
+There are a total of 100 datatable exercises divided into 10 sets of Jupyter Notebooks with 10 exercises each. It is recommended to go through the exercises in order but you may start with any set depending on your expertise.
 
-✅ Structured as exercises or tutorials - Choose your style   
-✅ Suitable for beginners, intermediates or experts - Choose your level   
+✅ Structured as exercises & tutorials - Choose your style   
+✅ Suitable for beginners, intermediates & experts - Choose your level   
 ✅ Available on Colab, Kaggle, Binder & GitHub - Choose your platform   
 
 The exercises are best experienced using datatable's [v1.0.0](https://datatable.readthedocs.io/en/latest/releases/v1.0.0.html) (Released on 1st July, 2021) & above but recommended to use the latest available version.
@@ -100,14 +100,20 @@ The exercises are best experienced using datatable's [v1.0.0](https://datatable.
 | Exercises | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 25th July, 2021
 | Solutions | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021
 
-The Jupyter Notebooks can be run locally by cloning the repo and running on your local jupyter server or by clicking on the link to any of the supported platforms.
+The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
+
+```bash
+git clone https://github.com/vopani/datatableton.git
+python3 -m pip install notebook
+jupyter notebook
+```
 
 **P.S.** The notebooks will be periodically updated to improve the exercises and support the latest version.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/vopani/datatableton/issues) for any improvements, suggestions or errors in the content.
 
-You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
+You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback. I have time for anyone wanting to share negative or positive thoughts about this project 🙂
 
 ## License 📋
 This project is licensed under the [Apache License 2.0](https://github.com/vopani/datatableton/blob/master/LICENSE).
