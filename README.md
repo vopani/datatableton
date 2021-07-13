@@ -113,7 +113,7 @@ jupyter notebook
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/vopani/datatableton/issues) for any improvements, suggestions or errors in the content.
 
-You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback. Happy to hear any negative or positive thoughts about this project 🙂
+You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
 
 ## License 📋
 This project is licensed under the [Apache License 2.0](https://github.com/vopani/datatableton/blob/master/LICENSE).
