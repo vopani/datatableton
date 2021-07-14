@@ -117,3 +117,8 @@ You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other 
 
 ## License 📋
 This project is licensed under the [Apache License 2.0](https://github.com/vopani/datatableton/blob/master/LICENSE).
+
+## Credits 🙏
+Collaborators: [parulnith](https://github.com/parulnith) , [shrinidhin](https://github.com/shrinidhin)
+
+Python datatable: [https://github.com/h2oai/datatable](https://github.com/h2oai/datatable)
