@@ -1,6 +1,6 @@
 ---
 name: Exercise request
-about: Request a particular functionality as an exercise
+about: Request a particular functionality as a new exercise
 title: ''
 labels: enhancement
 assignees: vopani
@@ -8,7 +8,7 @@ assignees: vopani
 ---
 
 **Describe Topic**
-A clear and concise description of what functionality should have an exercise.
+A clear and concise description of what functionality should have a new exercise.
 
 **Suggested Set**
 The set number or name where the functionality is most suitable for.
