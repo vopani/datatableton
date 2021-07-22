@@ -13,7 +13,7 @@
 </div>
 
 ## Mission 🚀
-To provide 100 datatable exercises over different sections structured as a course or tutorials to teach and learn for beginners, intermediates as well as experts.
+To provide 100 Python Datatable exercises over different sections structured as a course or tutorials to teach and learn for beginners, intermediates as well as experts.
 
 <h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="22px"></img></h2>
 
