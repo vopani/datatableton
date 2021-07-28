@@ -97,7 +97,7 @@ The exercises are best experienced using datatable's [v1.0.0](https://datatable.
 
 | Style | Colab | Kaggle | Binder | GitHub |
 | ----- | ----- | ------ | ------ | ------ |
-| Exercises | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 25th July, 2021
+| Exercises | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021
 | Solutions | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021 | ETA: 31st July, 2021
 
 The Jupyter Notebooks can also be run locally by cloning the repo and running on your local jupyter server.
