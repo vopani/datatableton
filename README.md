@@ -8,7 +8,6 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?logo=apache)](https://github.com/vopani/datatableton/blob/master/LICENSE)
 [![GitHub](https://img.shields.io/github/stars/vopani/datatableton?color=yellowgreen&logo=github)](https://img.shields.io/github/stars/vopani/datatableton?color=yellowgreen&logo=github)
-[![Twitter](https://img.shields.io/twitter/follow/vopani)](https://twitter.com/vopani)
 
 </div>
 
